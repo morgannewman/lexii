@@ -1,0 +1,1 @@
+# Lexii [![Build Status](https://travis-ci.com/morgannewman/lexii.svg?branch=master)](https://travis-ci.com/morgannewman/lexii)
